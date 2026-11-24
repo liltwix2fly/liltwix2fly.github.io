@@ -87,6 +87,7 @@ p a {
 }
 .footnotes li a:hover {
     color:rgb(61, 117, 247) !important;
+    font-size:15px !important;
 }
 .blurb {
     font-size:10px !important;
