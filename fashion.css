@@ -5,11 +5,11 @@ body {
     font-family: "Noto Sans", sans-serif;
     list-style-type:none;
 }
-.nav li a, .main-blog li a {
+.nav li a, .main-blog li a, .links {
     color: rgb(28, 28, 28);
     transition-duration: 400ms;
 }
-.nav li a:hover, .main-blog li a:hover {
+.nav li a:hover, .main-blog li a:hover, .links:hover {
     color:rgb(61, 117, 247);
     font-size:larger;
 }
